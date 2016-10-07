@@ -261,6 +261,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Powen Hsueh (D5SNDYZ6G9)";
 				DEVELOPMENT_TEAM = D5SNDYZ6G9;
+				DYLIB_CURRENT_VERSION = 3;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo;
@@ -268,6 +269,7 @@
 				PROVISIONING_PROFILE = "ad56b991-2ba7-4eda-9a7b-8d47de38e06d";
 				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuildDemo_Dis;
 				SWIFT_VERSION = 3.0;
+				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
@@ -278,6 +280,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Powen Hsueh (D5SNDYZ6G9)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Powen Hsueh (D5SNDYZ6G9)";
 				DEVELOPMENT_TEAM = D5SNDYZ6G9;
+				DYLIB_CURRENT_VERSION = 3;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo;
@@ -285,6 +288,7 @@
 				PROVISIONING_PROFILE = "ad56b991-2ba7-4eda-9a7b-8d47de38e06d";
 				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuildDemo_Dis;
 				SWIFT_VERSION = 3.0;
+				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
