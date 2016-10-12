@@ -264,10 +264,10 @@
 				DYLIB_CURRENT_VERSION = 3;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "ad56b991-2ba7-4eda-9a7b-8d47de38e06d";
-				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuildDemo_Dis;
+				PROVISIONING_PROFILE = "76e63650-0211-49f8-892f-076ee52ffaaa";
+				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuild2_Dis;
 				SWIFT_VERSION = 3.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -283,7 +283,7 @@
 				DYLIB_CURRENT_VERSION = 3;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "ad56b991-2ba7-4eda-9a7b-8d47de38e06d";
 				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuildDemo_Dis;
@@ -350,10 +350,10 @@
 				DYLIB_CURRENT_VERSION = 3;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "ad56b991-2ba7-4eda-9a7b-8d47de38e06d";
-				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuildDemo_Dis;
+				PROVISIONING_PROFILE = "76e63650-0211-49f8-892f-076ee52ffaaa";
+				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuild2_Dis;
 				SWIFT_VERSION = 3.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -417,7 +417,7 @@
 				DYLIB_CURRENT_VERSION = 3;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "ad56b991-2ba7-4eda-9a7b-8d47de38e06d";
 				PROVISIONING_PROFILE_SPECIFIER = iOSAutoBuildDemo_Dis;
