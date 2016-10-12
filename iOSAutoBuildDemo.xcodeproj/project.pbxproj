@@ -262,7 +262,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Powen Hsueh (D5SNDYZ6G9)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Powen Hsueh (D5SNDYZ6G9)";
 				DEVELOPMENT_TEAM = D5SNDYZ6G9;
-				DYLIB_CURRENT_VERSION = 3;
+				DYLIB_CURRENT_VERSION = 4;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo2;
@@ -281,7 +281,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Powen Hsueh (D5SNDYZ6G9)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Powen Hsueh (D5SNDYZ6G9)";
 				DEVELOPMENT_TEAM = D5SNDYZ6G9;
-				DYLIB_CURRENT_VERSION = 3;
+				DYLIB_CURRENT_VERSION = 4;
 				INFOPLIST_FILE = iOSAutoBuildDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appedia.iOSAutoBuildDemo2;
