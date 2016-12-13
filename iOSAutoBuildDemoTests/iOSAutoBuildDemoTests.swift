@@ -10,9 +10,12 @@ import XCTest
 
 class iOSAutoBuildDemoTests: XCTestCase {
     
+    var numberOperationUtility : NumberOperationUtility?
+    
     override func setUp() {
         super.setUp()
         // Put setup code here. This method is called before the invocation of each test method in the class.
+        numberOperationUtility = NumberOperationUtility()
     }
     
     override func tearDown() {
@@ -20,9 +23,20 @@ class iOSAutoBuildDemoTests: XCTestCase {
         super.tearDown()
     }
     
-    func testExample() {
+    func testAddition() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+        
+        let additionResult = numberOperationUtility?.addTwoNumbers(firstNumber: 100, secondNumber: 200)
+        XCTAssertTrue(additionResult==300,"Addition Test Failed");
+    }
+    
+    func testMultiplication() {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        
+        let multiplicationResult = numberOperationUtility?.multiplyTwoNumbers(firstNumber: 100, secondNumber: 200)
+        XCTAssertTrue(multiplicationResult==20000,"Multiplication Test Failed");
     }
     
     func testPerformanceExample() {
